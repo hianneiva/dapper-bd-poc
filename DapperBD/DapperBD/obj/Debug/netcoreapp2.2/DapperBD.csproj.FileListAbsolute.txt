@@ -1,0 +1,11 @@
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\bin\Debug\netcoreapp2.2\DapperBD.deps.json
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\bin\Debug\netcoreapp2.2\DapperBD.runtimeconfig.json
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\bin\Debug\netcoreapp2.2\DapperBD.runtimeconfig.dev.json
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\bin\Debug\netcoreapp2.2\DapperBD.dll
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\obj\Debug\netcoreapp2.2\DapperBD.csprojAssemblyReference.cache
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\obj\Debug\netcoreapp2.2\DapperBD.csproj.CoreCompileInputs.cache
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\obj\Debug\netcoreapp2.2\DapperBD.AssemblyInfoInputs.cache
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\obj\Debug\netcoreapp2.2\DapperBD.AssemblyInfo.cs
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\bin\Debug\netcoreapp2.2\DapperBD.pdb
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\obj\Debug\netcoreapp2.2\DapperBD.dll
+D:\PoCs\bd\DapperBD\DapperBD\DapperBD\obj\Debug\netcoreapp2.2\DapperBD.pdb
